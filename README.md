@@ -1,5 +1,4 @@
-# ionic
-ionic demos
+# ionic app框架搭建
 
 ### 开始
 
