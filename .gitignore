@@ -6,7 +6,5 @@ platforms/
 plugins/
 .idea
 www/lib
-resources
 *.log
 /www/css
-/www/js
